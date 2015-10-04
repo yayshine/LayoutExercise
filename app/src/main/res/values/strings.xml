@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">LayoutExercise</string>
+
+    <string name="hello_world">Hello world!</string>
+    <string name="action_settings">Settings</string>
+    <string name="title_activity_google_docs">GoogleDocsActivity</string>
+    <string name="title_activity_eight_tracks">EightTracksActivity</string>
+    <string name="title_activity_instagram">InstagramActivity</string>
+    <string name="title_activity_evernote">EvernoteActivity</string>
+    <string name="title_activity_sound_cloud">SoundCloudActivity</string>
+</resources>
